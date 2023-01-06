@@ -63,3 +63,10 @@
     font-size: 18px;
     margin-bottom: 50px;
 }
+.donate{
+   display: flex;
+}
+.donate-money{
+    background: #FAFAFA;
+    border-radius: 5px;
+}
