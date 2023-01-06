@@ -30,3 +30,13 @@
     font-size: 18px;
     margin-bottom: 30px;
 }
+/* header button */
+.primary-buttom{
+    background-color: #FF5959;
+    border-radius: 5px;
+    padding: 16px 12px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    border: none;
+}
