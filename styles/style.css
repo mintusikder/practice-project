@@ -5,7 +5,7 @@
 }
 /* background image section */
 .background{
-    background-image: url(/images/donation5.jpg);
+    background-image: url("../images/donation5.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom right, left;
@@ -65,6 +65,7 @@
 }
 .donate{
    display: flex;
+   align-items: center;
 }
 .donate-money{
     background: #FAFAFA;
